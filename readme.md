@@ -262,6 +262,9 @@ If you want to install OMG-tools for development purposes, you can link your ins
 
 `sudo pip install -e .`
 
+### ROS
+https://www.youtube.com/watch?v=dWAzfLd_wec
+ 
 
 ## Authors
 OMG-tools is developed by Ruben Van Parys and Tim Mercy as part of their research in spline-based motion planning, under supervision of Goele Pipeleers within the [MECO research team](https://www.mech.kuleuven.be/en/pma/research/meco). Any questions, comments or propositions of collaboration can be addressed to ruben[dot]vanparys[at]kuleuven[dot]be and tim[dot]mercy[at]kuleuven[dot]be.
